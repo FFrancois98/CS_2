@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\fleur\documents\visual studio 2015\projects\assignment_1_fall\assignment_1_fall\source.cpp(46): warning C4305: 'argument': truncation from 'double' to 'float'
+  Assignment_1_Fall.vcxproj -> c:\users\fleur\documents\visual studio 2015\Projects\Assignment_1_Fall\Debug\Assignment_1_Fall.exe
+  Assignment_1_Fall.vcxproj -> c:\users\fleur\documents\visual studio 2015\Projects\Assignment_1_Fall\Debug\Assignment_1_Fall.pdb (Full PDB)

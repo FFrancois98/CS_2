@@ -1,0 +1,4 @@
+﻿  customer.cpp
+c:\users\fleur\documents\visual studio 2015\projects\lab_10_fall\lab_10_fall\customer.cpp(53): warning C4715: 'queueType::dequeue': not all control paths return a value
+  Lab_10_Fall.vcxproj -> c:\users\fleur\documents\visual studio 2015\Projects\Lab_10_Fall\Debug\Lab_10_Fall.exe
+  Lab_10_Fall.vcxproj -> c:\users\fleur\documents\visual studio 2015\Projects\Lab_10_Fall\Debug\Lab_10_Fall.pdb (Full PDB)
