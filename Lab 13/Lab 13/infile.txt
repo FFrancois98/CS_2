@@ -1,0 +1,55 @@
+Smith
+John
+123456
+3.4
+J
+1750.4
+302
+Fairmont St NW
+Washington
+DC
+20059
+Smitty
+Frank
+78910
+2.7
+F
+1940.7
+712
+Sixth St SW
+Washington
+DC
+20059
+Mitty
+Grank
+75910
+3.7
+S
+1990.7
+375
+Seventh St SW
+Washington
+DC
+20059
+Johnson
+Garry
+12756
+3.8
+S
+150.4
+456
+Fairmont St NW
+Washington
+DC
+20059
+Brwn
+Mike
+56009
+2.4
+F
+10.4
+789
+Fairmouth St NW
+Washington
+DC
+20059
